@@ -8,7 +8,7 @@
             "email": "josefernando.araujo@trf1.jus.br"
         }
     ],
-    "license": "keycloak_lib",
+    "license": "MIT",
     "minimum-stability": "stable",
     "require": {},    
     "autoload" : {
