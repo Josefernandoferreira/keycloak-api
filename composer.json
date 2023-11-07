@@ -13,7 +13,8 @@
     "require": {
         "php": ">=5.5"
     }, 
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "autoload" : {
         "psr-4" : {
           "keycloak_lib\\lib_keycloak_api\\" :  "src/"
