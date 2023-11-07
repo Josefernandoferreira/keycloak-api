@@ -1,5 +1,5 @@
 <?php 
-namespace keycloak\lib_keycloak_api;
+namespace keycloak_lib\lib_keycloak_api;
 
 class Keycloak
     {

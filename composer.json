@@ -1,5 +1,5 @@
 {
-    "name": "keycloak/lib_keycloak_api",
+    "name": "keycloak_lib/lib_keycloak_api",
     "description": "Biblioteca para gerenciamento de perfis de acesso do keycloak",
     "type": "library",
     "authors": [
@@ -12,7 +12,7 @@
     "require": {},
     "autoload" : {
         "psr-4" : {
-          "keycloak\\lib_keycloak_api\\" :  "src/"
+          "keycloak_lib\\lib_keycloak_api\\" :  "src/"
         }
     }
 }
