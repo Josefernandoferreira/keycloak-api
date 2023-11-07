@@ -8,8 +8,9 @@
             "email": "josefernando.araujo@trf1.jus.br"
         }
     ],
+    "license": "keycloak_lib",
     "minimum-stability": "stable",
-    "require": {},
+    "require": {},    
     "autoload" : {
         "psr-4" : {
           "keycloak_lib\\lib_keycloak_api\\" :  "src/"
