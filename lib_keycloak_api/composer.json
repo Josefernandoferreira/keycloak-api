@@ -1,0 +1,19 @@
+{
+    "name": "keycloak/lib_keycloak_api",
+    "description": "Biblioteca para gerenciamento de perfis de acesso do keycloak",
+    "type": "library",
+    "authors": [
+        {
+            "name": "José Fernando",
+            "email": "josefernando.araujo@trf1.jus.br"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload" : {
+        "psr-4" : {
+          "keycloak\\lib_keycloak_api\\" :  "src/"
+        }
+    }
+}
+
