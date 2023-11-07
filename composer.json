@@ -2,6 +2,7 @@
     "name": "keycloak_lib/lib_keycloak_api",
     "description": "Biblioteca para gerenciamento de perfis de acesso do keycloak",
     "type": "library",
+    "version": "1.0.0",
     "authors": [
         {
             "name": "José Fernando",
@@ -11,9 +12,7 @@
     "license": "MIT",
     "minimum-stability": "stable",
     "require": {
-        "php": ">=5.5",
-        "keycloak_lib/lib_keycloak_api": "1.0.0"
-        
+        "php": ">=5.5"
     }, 
     "autoload" : {
         "psr-4" : {
